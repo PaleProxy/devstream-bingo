@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(71, 71, 71);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+th, td{
+    border:2px solid rgb(36, 36, 51);
+    font-size: 30px;
+    color: rgb(202, 202, 202); 
+    width: 100px;
+    height: 100px;
+     
+}
+
+

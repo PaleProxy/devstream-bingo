@@ -1,0 +1,134 @@
+ITEMS =[
+  {
+  'id' : 1,
+  'title' : 'DElayed'
+  },
+  {
+  'id' : 2,
+  'title' : 'New Prime announcment'
+  },
+  {
+  'id' : 3,
+  'title' : 'Random Change No One Asked For'
+  },
+  {
+  'id' : 4,
+  'title': 'New Arcanes'
+  },
+  {
+  'id' : 5,
+  'title': 'New Warframe'
+  },
+  {
+  'id' : 6,
+  'title': 'Sexual Joke'
+  },
+  {
+  'id' : 7,
+  'title': 'Pablo makes an appearance'
+  },
+  {
+  'id': 8,
+  'title': 'Raids being mentioned xD'
+  },
+  {
+  'id': 9,
+  'title': 'Soon TM'
+  },
+  {
+  'id': 10,
+  'title':'Filler Update'
+  },
+  {
+  'id': 11,
+  'title': 'Unmodded gameplay'
+  },
+  {
+  'id': 12,
+  'title': 'Chat thirsts for frame'
+  },
+  {
+  'id': 13,
+  'title': '"Uh-oh Something went wrong"'
+  },
+  {
+  'id': 14,
+  'title': 'Cursed fashion frame'
+  },
+  {
+  'id': 15,
+  'title': 'New Quest'
+  },
+  {
+  'id': 16,
+  'title': 'A wild Steve appears'
+  },
+  {
+  'id': 17,
+  'title': 'Self-damage rework'
+  },
+  {
+  'id': 18,
+  'title': 'Ammo pickup changes'
+  },
+  {
+  'id': 19,
+  'title': 'AOE weapon rework'
+  },
+  {
+  'id': 20,
+  'title': 'Power Creep breaking game'
+  },
+  {
+  'id': 21,
+  'title': 'Kuva and Relic Pack weekly limit nerf'
+  },
+  {
+  'id': 22,
+  'title': 'Platinum Prize'
+  },
+  {
+  'id': 23,
+  'title': 'Mentions popular WF Youtuber'
+  },
+  {
+  'id': 24,
+  'title': 'Bad Joke'
+  },
+  {
+  'id': 25,
+  'title': 'Update Going Live After Stream'
+  },
+  {
+  'id': 26,
+  'title': 'Broken Drops'
+  },
+  {
+  'id': 27,
+  'title': 'Archon Shards'
+  },
+  {
+  'id': 28,
+  'title': 'Khal'
+  },
+  {
+  'id': 29,
+  'title': 'Mentions Current Update'
+  },
+  {
+  'id': 30,
+  'title': '"Placeholder, subject to change"'
+  },
+  {
+  'id': 31,
+  'title': '"We are running over time"'
+  },
+  {
+  'id': 32,
+  'title': 'Technical Difficulties'
+  },
+  {
+  'id': 33,
+  'title': 'Warframe Mobile'
+  }
+]
